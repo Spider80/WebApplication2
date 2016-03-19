@@ -12,6 +12,7 @@ using WebApplication2.Models;
 
 namespace WebApplication2.Controllers
 {
+    //Admin autorize
     [Authorize]
     public class AccountController : Controller
     {
