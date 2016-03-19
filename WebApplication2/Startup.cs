@@ -8,6 +8,8 @@ namespace WebApplication2
     {
         public void Configuration(IAppBuilder app)
         {
+            //comments
+
             ConfigureAuth(app);
         }
     }
